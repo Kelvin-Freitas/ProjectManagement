@@ -1,11 +1,11 @@
 {
   "projects": [
     {
-      "name": "Projeto de Infra",
-      "budget": "10000",
+      "name": "Projeto de Infraestrutura",
+      "budget": "6500",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 5000,
       "services": [
