@@ -7,13 +7,25 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 5000,
+      "cost": 5300,
       "services": [
         {
           "name": "Contratar um DevOps",
           "cost": "5000",
           "description": "DevOps para criar projeto na AWS",
           "id": "79475653-9d65-4eb0-921b-9b12b6c6be52"
+        },
+        {
+          "name": "Arquitetura",
+          "cost": "100",
+          "description": "Arquitetura do projeto",
+          "id": "498b9b63-dc18-4aad-84e8-2755b05d7f1b"
+        },
+        {
+          "name": "Arquitetura",
+          "cost": "200",
+          "description": "Arquitetura do projeto",
+          "id": "dace23a7-4338-42dd-a4af-39ad0d81dad8"
         }
       ],
       "id": 2
